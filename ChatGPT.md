@@ -10,7 +10,7 @@ Chatbots come in two types:
 
 ---
 
-## 🔹 Types of Chatbots
+## Types of Chatbots
 
 ### 1. Rule-Based Chatbot
 - These are pre-defined and work on specific **keywords** or **options**.
